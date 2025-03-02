@@ -5,6 +5,8 @@
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoRomulo&show_icons=true&theme=cobalt)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 ## Tecnologias que eu utilizo
 
 <div style="display: inline_block"></br>
